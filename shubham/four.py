@@ -1,0 +1,8 @@
+name = input("Enter Name:-")
+age = input("Enter age:-")
+Branch = input("Enter Branch:-")
+email = input("Enter email:-")
+print(name)
+print(age)
+print(Branch)
+print(email+"@gmail.com")
